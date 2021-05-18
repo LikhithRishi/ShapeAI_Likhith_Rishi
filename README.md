@@ -1,0 +1,2 @@
+# ShapeAI_Likhith_Rishi
+Basic Python and Deep Learning 7 Days Hands On Bootcamp
